@@ -1,5 +1,5 @@
-﻿Goal,goal
-Target,target
+﻿Goal,goal_id
+Target,target_id
 Indicator,indicator_name
 Organization,organization_name
 Contact person(s)/Focal point:,contact_name
@@ -25,5 +25,4 @@ Non-statistical indicator,data_non_statistical
 Units of measure,measurement_units
 Geographical coverage,national_geographical_coverage
 Metadata link,goal_meta_link
-Metadata link text,goal_meta_link_text
 Tags,tags
