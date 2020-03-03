@@ -1,6 +1,6 @@
 ﻿Goal,goal_name
 Target,target_name
-Indicator,indicator_name
+Indicator,indicator_name1
 Organization,organization_name
 Contact person(s)/Focal point:,contact_name
 Contact person’s email:,contact_email
@@ -18,7 +18,7 @@ Data availability and gaps: ,data_availability_gaps
 Disaggregation:,disaggregation
 7. Comparability with international data/standards ,international_comparability
 8. References and documentation,references_documentation
-Indicator name,indicator_name1
+Indicator name,indicator_name
 Graph title,graph_title
 Graph type,graph_type
 Non-statistical indicator,data_non_statistical
