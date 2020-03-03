@@ -183,7 +183,7 @@ prose:
                 translation_key: 'status.statistics_in_progress'
               - name: 'notstarted'
                 value: 'notstarted'
-                translation_key: 'status.not_reported'
+                translation_key: 'status.exploring_data_sources'
             scope: data
       - name: data_non_statistical
         field:
