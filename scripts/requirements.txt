@@ -1,2 +1,3 @@
 git+git://github.com/dougmet/yamlmd
 git+git://github.com/open-sdg/sdg-build@lastest-excel-metadata-input
+lxml
