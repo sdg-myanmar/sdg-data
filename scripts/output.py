@@ -28,7 +28,7 @@ def fix_data(df):
 drop_dimensions = ['SOURCE_DETAIL']
 
 # Each SDMX source should have a DSD (data structure definition).
-dsd = os.path.join('')
+dsd = os.path.join('DSD_global.xml')
 
 # Read all the files.
 sdmx_files = glob.glob(os.path.join('data/', '*.xml'))
