@@ -1,5 +1,5 @@
-﻿Goal,goal_id
-Target,target_id
+﻿Goal,goal_name
+Target,target_name
 Indicator,indicator_name
 Organization,organization_name
 Contact person(s)/Focal point:,contact_name
