@@ -25,4 +25,6 @@ Non-statistical indicator,data_non_statistical
 Units of measure,measurement_units
 Geographical coverage,national_geographical_coverage
 Metadata link,goal_meta_link
-Tags,tags
+Metadata link text,goal_meta_link_text
+Tag,tags
+Indicator text,page_content
